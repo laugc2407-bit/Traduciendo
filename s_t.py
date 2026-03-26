@@ -19,7 +19,7 @@ st.title("TRADUCTOR")
 st.subheader("Dime algo que quieras traducir y con gusto lo haré.")
 
 
-image = Image.open('OIG7.jpg')
+image = Image.open('dehecho.jpg')
 
 st.image(image,width=300)
 with st.sidebar:
